@@ -16,4 +16,5 @@ public struct UserData {
 	public var EndDate: Date?
 	public var Dayly: [WeatherParameters]?
 	public var Hourly: [WeatherParameters]?
+	public var Current: [WeatherParameters]?
 }

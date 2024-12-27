@@ -9,4 +9,6 @@ public enum WeatherParameters: String {
 	case temperature_2m_max
 	case temperature_2m_min
 	case temperature_2m
+	case is_day
+	case weather_code
 }

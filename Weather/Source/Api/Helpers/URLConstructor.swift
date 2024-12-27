@@ -23,6 +23,10 @@ final class URLConstructor {
 			let result = makeWeatherParemeter(data.Dayly!, "&daily=")
 			urlResult.append(result)
 		}
+		if data.Current != nil {
+			let result = makeWeatherParemeter(data.Current!, "&current=")
+			urlResult.append(result)
+		}
 		
 		if data.ForecastDays != nil {
 			urlResult.append("&forecast_days=\(data.ForecastDays!)")

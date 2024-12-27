@@ -1,0 +1,366 @@
+{
+	"elements":[
+		{
+			"code":0,
+			"data":{
+				"day":{
+					"description":"Солнечно",
+					"image":"https://openweathermap.org/img/wn/01d@2x.png"
+				},
+				"night":{
+					"description":"Звездно",
+					"image":"https://openweathermap.org/img/wn/01n@2x.png"
+				}
+			}
+		},
+		{
+			"code":1,
+			"data":{
+				"day":{
+					"description":"Преимущественно солнечно",
+					"image":"https://openweathermap.org/img/wn/01d@2x.png"
+				},
+				"night":{
+					"description":"Преимущественно ясно",
+					"image":"https://openweathermap.org/img/wn/01n@2x.png"
+				}
+			}
+		},
+		{
+			"code":2,
+			"data":{
+				"day":{
+					"description":"Переменная облачность",
+					"image":"https://openweathermap.org/img/wn/02d@2x.png"
+				},
+				"night":{
+					"description":"Переменная облачность",
+					"image":"https://openweathermap.org/img/wn/02n@2x.png"
+				}
+			}
+		},
+		{
+			"code":3,
+			"data":{
+				"day":{
+					"description":"Облачно",
+					"image":"https://openweathermap.org/img/wn/03d@2x.png"
+				},
+				"night":{
+					"description":"Облачно",
+					"image":"https://openweathermap.org/img/wn/03n@2x.png"
+				}
+			}
+		},
+		{
+			"code":45,
+			"data":{
+				"day":{
+					"description":"Туманно",
+					"image":"https://openweathermap.org/img/wn/50d@2x.png"
+				},
+				"night":{
+					"description":"Туманно",
+					"image":"https://openweathermap.org/img/wn/50n@2x.png"
+				}
+			}
+		},
+		{
+			"code":48,
+			"data":{
+				"day":{
+					"description":"Туман и Иней",
+					"image":"https://openweathermap.org/img/wn/50d@2x.png"
+				},
+				"night":{
+					"description":"Туман и Иней",
+					"image":"https://openweathermap.org/img/wn/50n@2x.png"
+				}
+			}
+		},
+		{
+			"code":51,
+			"data":{
+				"day":{
+					"description":"Мелкий моросящий дождь",
+					"image":"https://openweathermap.org/img/wn/09d@2x.png"
+				},
+				"night":{
+					"description":"Мелкий моросящий дождь",
+					"image":"https://openweathermap.org/img/wn/09n@2x.png"
+				}
+			}
+		},
+		{
+			"code":53,
+			"data":{
+				"day":{
+					"description":"Моросящий дождь",
+					"image":"https://openweathermap.org/img/wn/09d@2x.png"
+				},
+				"night":{
+					"description":"Моросящий дождь",
+					"image":"https://openweathermap.org/img/wn/09n@2x.png"
+				}
+			}
+		},
+		{
+			"code":55,
+			"data":{
+				"day":{
+					"description":"Сильный моросящий дождь",
+					"image":"https://openweathermap.org/img/wn/09d@2x.png"
+				},
+				"night":{
+					"description":"Сильный моросящий дождь",
+					"image":"https://openweathermap.org/img/wn/09n@2x.png"
+				}
+			}
+		},
+		{
+			"code":56,
+			"data":{
+				"day":{
+					"description":"Легкий ледяной дождь",
+					"image":"https://openweathermap.org/img/wn/09d@2x.png"
+				},
+				"night":{
+					"description":"Легкий ледяной дождь",
+					"image":"https://openweathermap.org/img/wn/09n@2x.png"
+				}
+			}
+		},
+		{
+			"code":57,
+			"data":{
+				"day":{
+					"description":"Ледяной дождь",
+					"image":"https://openweathermap.org/img/wn/09d@2x.png"
+				},
+				"night":{
+					"description":"Ледяной дождь",
+					"image":"https://openweathermap.org/img/wn/09n@2x.png"
+				}
+			}
+		},
+		{
+			"code":61,
+			"data":{
+				"day":{
+					"description":"Небольшой дождь",
+					"image":"https://openweathermap.org/img/wn/10d@2x.png"
+				},
+				"night":{
+					"description":"Небольшой дождь",
+					"image":"https://openweathermap.org/img/wn/10n@2x.png"
+				}			}
+		},
+		{
+			"code":63,
+			"data":{
+				"day":{
+					"description":"Дождь",
+					"image":"https://openweathermap.org/img/wn/10d@2x.png"
+				},
+				"night":{
+					"description":"Дождь",
+					"image":"https://openweathermap.org/img/wn/10n@2x.png"
+				}
+			}
+		},
+		{
+			"code":65,
+			"data":{
+				"day":{
+					"description":"Сильный дождь",
+					"image":"https://openweathermap.org/img/wn/10d@2x.png"
+				},
+				"night":{
+					"description":"Сильный дождь",
+					"image":"https://openweathermap.org/img/wn/10n@2x.png"
+				}
+			}
+		},
+		{
+			"code":66,
+			"data":{
+				"day":{
+					"description":"Легкий ледяной дождь",
+					"image":"https://openweathermap.org/img/wn/10d@2x.png"
+				},
+				"night":{
+					"description":"Легкий ледяной дождь",
+					"image":"https://openweathermap.org/img/wn/10n@2x.png"
+				}
+			}
+		},
+		{
+			"code":67,
+			"data":{
+				"day":{
+					"description":"Ледяной дождь",
+					"image":"https://openweathermap.org/img/wn/10d@2x.png"
+				},
+				"night":{
+					"description":"Ледяной дождь",
+					"image":"https://openweathermap.org/img/wn/10n@2x.png"
+				}
+			}
+		},
+		{
+			"code":71,
+			"data":{
+				"day":{
+					"description":"Легкий снег",
+					"image":"https://openweathermap.org/img/wn/13d@2x.png"
+				},
+				"night":{
+					"description":"Легкий снег",
+					"image":"https://openweathermap.org/img/wn/13n@2x.png"
+				}			}
+		},
+		{
+			"code":73,
+			"data":{
+				"day":{
+					"description":"Снег",
+					"image":"https://openweathermap.org/img/wn/13d@2x.png"
+				},
+				"night":{
+					"description":"Снег",
+					"image":"https://openweathermap.org/img/wn/13n@2x.png"
+				}
+			}
+		},
+		{
+			"code":75,
+			"data":{
+				"day":{
+					"description":"Снегопад",
+					"image":"https://openweathermap.org/img/wn/13d@2x.png"
+				},
+				"night":{
+					"description":"Снегопад",
+					"image":"https://openweathermap.org/img/wn/13n@2x.png"
+				}
+			}
+		},
+		{
+			"code":77,
+			"data":{
+				"day":{
+					"description":"Легкий снег",
+					"image":"https://openweathermap.org/img/wn/13d@2x.png"
+				},
+				"night":{
+					"description":"Легкий снег",
+					"image":"https://openweathermap.org/img/wn/13n@2x.png"
+				}
+			}
+		},
+		{
+			"code":80,
+			"data":{
+				"day":{
+					"description":"Небольшой дождь",
+					"image":"https://openweathermap.org/img/wn/09d@2x.png"
+				},
+				"night":{
+					"description":"Небольшой дождь",
+					"image":"https://openweathermap.org/img/wn/09n@2x.png"
+				}
+			}
+		},
+		{
+			"code":81,
+			"data":{
+				"day":{
+					"description":"Ливень",
+					"image":"https://openweathermap.org/img/wn/09d@2x.png"
+				},
+				"night":{
+					"description":"Ливень",
+					"image":"https://openweathermap.org/img/wn/09n@2x.png"
+				}
+			}
+		},
+		{
+			"code":82,
+			"data":{
+				"day":{
+					"description":"Сильный ливень",
+					"image":"https://openweathermap.org/img/wn/09d@2x.png"
+				},
+				"night":{
+					"description":"Сильный ливень",
+					"image":"https://openweathermap.org/img/wn/09n@2x.png"
+				}
+			}
+		},
+		{
+			"code":85,
+			"data":{
+				"day":{
+					"description":"Легкий снегопад",
+					"image":"https://openweathermap.org/img/wn/13d@2x.png"
+				},
+				"night":{
+					"description":"Легкий снегопад",
+					"image":"https://openweathermap.org/img/wn/13n@2x.png"
+				}
+			}
+		},
+		{
+			"code":86,
+			"data":{
+				"day":{
+					"description":"Снегопад",
+					"image":"https://openweathermap.org/img/wn/13d@2x.png"
+				},
+				"night":{
+					"description":"Снегопад",
+					"image":"https://openweathermap.org/img/wn/13n@2x.png"
+				}
+			}
+		},
+		{
+			"code":95,
+			"data":{
+				"day":{
+					"description":"Гроза",
+					"image":"https://openweathermap.org/img/wn/11d@2x.png"
+				},
+				"night":{
+					"description":"Гроза",
+					"image":"https://openweathermap.org/img/wn/11n@2x.png"
+				}
+			}
+		},
+		{
+			"code":96,
+			"data":{
+				"day":{
+					"description":"Гроза и град",
+					"image":"https://openweathermap.org/img/wn/11d@2x.png"
+				},
+				"night":{
+					"description":"Гроза и град",
+					"image":"https://openweathermap.org/img/wn/11n@2x.png"
+				}
+			}
+		},
+		{
+			"code":99,
+			"data":{
+				"day":{
+					"description":"Гром и град",
+					"image":"https://openweathermap.org/img/wn/11d@2x.png"
+				},
+				"night":{
+					"description":"Гром и град",
+					"image":"https://openweathermap.org/img/wn/11n@2x.png"
+				}
+			}
+		}
+	]
+}
